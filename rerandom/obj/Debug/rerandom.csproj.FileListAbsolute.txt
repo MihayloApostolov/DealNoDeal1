@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\DealNoDeal\rerandom\bin\Debug\rerandom.exe.config
+C:\Users\PC\Desktop\DealNoDeal\rerandom\bin\Debug\rerandom.exe
+C:\Users\PC\Desktop\DealNoDeal\rerandom\bin\Debug\rerandom.pdb
+C:\Users\PC\Desktop\DealNoDeal\rerandom\obj\Debug\rerandom.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\DealNoDeal\rerandom\obj\Debug\rerandom.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\DealNoDeal\rerandom\obj\Debug\rerandom.exe
+C:\Users\PC\Desktop\DealNoDeal\rerandom\obj\Debug\rerandom.pdb
